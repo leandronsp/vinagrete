@@ -9,6 +9,15 @@ Each `vinagrete` is equal to a single minute.
 
 Just that simple.
 
+### Wait, but every Pomodoro timer is customizable!
+
+Yeah, we know that. Just chill out :D
+
+We think that a Pomodoro (25 minutes) is too much. We believe in shorter steps.
+Each `vinagrete` is equal to a single minute.
+
+Just that simple.
+
 ### Requirements
 
 - A decent Operating System
