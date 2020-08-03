@@ -1,0 +1,3 @@
+#!/bin/bash
+
+docker exec vinagrete cat timer.out

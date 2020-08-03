@@ -1,0 +1,14 @@
+version: '3.2'
+
+services:
+  app:
+    environment:
+      - SLACK_WEBHOOK_URL
+      - SLACK_CHANNEL_ID
+      - TIMER_IN_MINUTES
+    build:
+      context: .
+    container_name: vinagrete
+    image: vinagrete
+    working_dir: /app
+    command: bundle exec rake
