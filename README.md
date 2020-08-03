@@ -29,7 +29,13 @@ Export the following environment variables to your preferred configuration file:
 VINAGRETES=25 docker-compose up
 ```
 
-By default, each minute represent a single `vinagrete`. You can customize on
+Or simply:
+
+```
+bash start # which mimics a 25-minutes Pomodoro
+```
+
+By default, each minute represents a single `vinagrete`. You can customize on
 your own:
 
 ```

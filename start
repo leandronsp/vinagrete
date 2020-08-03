@@ -1,0 +1,3 @@
+#!/bin/bash
+
+VINAGRETES=25 docker-compose up -d
